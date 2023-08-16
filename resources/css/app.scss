@@ -1,0 +1,227 @@
+.mr10 {
+  margin-right: 10px;
+}
+
+.mr30 {
+  margin-right: 30px;
+}
+
+.mb10 {
+  margin-bottom: 10px;
+}
+
+.mb20 {
+  margin-bottom: 20px;
+}
+
+.mb30 {
+  margin-bottom: 30px;
+}
+
+.ml05 {
+  margin-left: 0.8rem;
+}
+
+.title_area {
+  color: #000;
+  font-size: 1.4rem;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.title_area h3{
+  margin-bottom: 5px;
+}
+
+.title_sub {
+  color: #00000080;
+  font-size: 1.0rem;
+  font-weight: bold;
+}
+
+.icn22 a i {
+  font-size: 22px;
+  color: #627696;
+}
+
+.item20 {
+  width: 400px;
+}
+
+.py-12 .item .agree {
+	width: 130px;
+  background-color: #eb0b0b;
+}
+
+.py-12 .btn {
+  color: #FFF;
+	font-weight: bold;
+	text-align: center;
+	width: 180px;
+	margin: auto;
+	padding: 1rem;
+  background-color: #14598b;
+  border-radius: 3px;
+}
+
+.py-12 .flex-end {
+  justify-content: flex-end;
+}
+
+.last_name {
+  color: #00000080;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.items-center img {
+  max-height: 200px;
+  max-width: 200px;
+  border-radius: 50%;
+}
+
+.nav-title {
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+.content-400 {
+  width: 400px;
+  margin-right: 50px;
+}
+
+.content-right {
+  width: 100%;
+}
+
+.search h3 {
+  font-size: 1.15rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.search .item {
+  padding: 20px 0 15px;
+  border-top: 1px solid rgb(237, 237, 237);
+}
+
+.search .item h4 {
+  color: #00000080;
+  font-size: 1.0rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.item .keyword {
+  padding: 2px 8px;
+  width: 100%;
+  height: 44px;
+  font-size: 16px;
+  border: 1px solid rgb(200, 200, 200);
+  border-radius: 8px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(70, 70, 70);
+}
+
+.search .item .type {
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.search .item .type p {
+  margin-left: 5px;
+}
+
+.content-right .item h4 {
+  font-size: 1.0rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.content-right {
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+.content-right .item p {
+  color: #00000080;
+}
+
+.content-right .card-info {
+  margin-bottom: 1.0rem;
+}
+
+.content-right .card-info span {
+  color: #000;
+  font-size: 2.0rem;
+}
+
+.sample {
+  font-size: 0.8rem;
+  font-weight: bold;
+  padding: 10px 40px;
+  color: #FFF;
+  background-color: #69b7c3;
+  border-radius: 0.5rem;
+  display: inline-block;
+}
+
+.account .plan {
+  font-weight: bold;
+}
+
+.plan .image img {
+  width: 25vw;
+  height: auto;
+  border-radius: 5%;
+}
+
+.plan .info .item .title {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.plan .info .item .tac {
+  text-align: center;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.plan .info .item .list {
+  display: grid;
+  grid-template-columns: 200px 200px;
+  color: #00000080;
+  font-size: 1.0rem;
+  font-weight: bold;
+}
+
+.plan .info .item .list .account {
+  color: #000;
+}
+
+.plan .info .item .check {
+  padding: 20px 10px;
+  border: 1px solid rgba(70, 70, 70, 0.1);
+  border-radius: 4px;
+  align-items: center;
+}
+
+.plan .info .item {
+  border-bottom: 1px solid rgba(70, 70, 70, 0.1);
+}
+
+.radio {
+  margin: 2px;
+}
+
+.checkbox {
+  margin-right: 4px;
+}
+
+.status {
+  color: #f40000;
+}
+
+.is-invalid {
+  border: 1px solid #f40000 !important;
+}
