@@ -62,7 +62,7 @@ http://localhost:8080/
 
 ### Admin Top page
 ```
-http://localhost:8080/
+http://localhost:8080/admin/
 ```
 
 ### Phpmyadmin
