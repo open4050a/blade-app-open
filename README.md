@@ -55,7 +55,12 @@ MAIL_FROM_NAME="${APP_NAME}"
 ```
 
 ## URL
-### Top page
+### User Top page
+```
+http://localhost:8080/
+```
+
+### Admin Top page
 ```
 http://localhost:8080/
 ```
